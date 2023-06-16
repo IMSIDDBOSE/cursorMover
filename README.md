@@ -10,4 +10,4 @@ To anyone who doesn't want their system to idle out and lock their screen, this 
   **./cursorMover.py** / **python cursorMover.py**
 
 The script will continuously move the mouse cursor within a random range of 10 pixels in the x and y axis within the inetrval of 1 second. 
-It will keep jiggling the cursor until you interrupt the script by pressing **Ctrl+C**.
+It will keep jiggling the cursor until you interrupt the script by pressing **Ctrl+C** / **Command+C**.
